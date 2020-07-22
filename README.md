@@ -1,2 +1,2 @@
 # iothinc-webinar
-hosted at https://www.webinar.iothincvit.in
+hosted at https://webinar.iothincvit.in/
